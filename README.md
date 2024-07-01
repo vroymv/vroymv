@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Mbong Vanistelroy</h1>
 <h3 align="center">Cross Platform Mobile Developer - React Native. Full Stack Web Developer</h3>
-<img align=“right” alt = “Coding” width = “400” src=“https://www.21kschool.com/in/wp-content/uploads/sites/4/2024/03/What-Is-Block-Coding-For-Kids_Guide-To-Get-Started-With-Learning-Block-Coding.jpg”/>
+<img align=“right” alt = “Coding” width = “400” src=“https://www.21kschool.com/in/wp-content/uploads/sites/4/2024/03/What-Is-Block-Coding-For-Kids_Guide-To-Get-Started-With-Learning-Block-Coding.jpg”></img>
 
 - 🌱 I’m currently learning **Python**
 
