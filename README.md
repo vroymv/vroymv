@@ -4,6 +4,8 @@
   <img src="https://www.21kschool.com/in/wp-content/uploads/sites/4/2024/03/What-Is-Block-Coding-For-Kids_Guide-To-Get-Started-With-Learning-Block-Coding.jpg" alt="Coding" align="right" style="border-radius: 15px; width: 300px;">
 </p>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4be38fdd-6276-43db-8183-8ea313d8fda1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 - 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **React, React Native**
